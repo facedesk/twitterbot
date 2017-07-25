@@ -47,3 +47,4 @@ Temporary Items
 .apdisk
 
 replykeys.py
+*.pyc
